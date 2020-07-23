@@ -1,4 +1,4 @@
-Code with React for Calculate Interest.
+Code with React.js for Calculate Interest.
 
 Positive Value.
 ![InterestCalculation](https://user-images.githubusercontent.com/54251390/88243147-7084d600-cc5d-11ea-8240-da28eec3b444.png)
