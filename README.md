@@ -1,3 +1,11 @@
+Code with React for Calculate Interest.
+
+Positive Value.
+![InterestCalculation](https://user-images.githubusercontent.com/54251390/88243147-7084d600-cc5d-11ea-8240-da28eec3b444.png)
+
+Negative Value.
+![negativeInterest](https://user-images.githubusercontent.com/54251390/88243219-a924af80-cc5d-11ea-9085-b064699614e3.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
